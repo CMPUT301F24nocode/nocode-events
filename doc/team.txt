@@ -2,3 +2,4 @@ Circle.java committed by ashra1-ai
 Rectangle.java committed by Prabhjot Singh(prabhjo4)
 Square.java committed by kaustav(kaustaxvv)
 Triangle.java comitted by Aryan Singh(Aryaninfinity)
+Pentagon.java comitted by Fuad Chowdhury(FuadCd)
